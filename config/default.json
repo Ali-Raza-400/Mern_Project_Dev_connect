@@ -1,0 +1,4 @@
+{
+    "mongoURL":"mongodb+srv://Ali:aliali@devconnector.qkosr.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret":"iamsecret"
+}
